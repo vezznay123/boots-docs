@@ -14,9 +14,44 @@ Dynamically generating image filenames using product system variables is an effe
 - **Avoid Special Characters**: Use only hyphens to separate words and avoid special characters, which may cause issues in URL encoding.
 - **Consistent Naming Pattern**: Maintain a consistent pattern across all image filenames to ensure uniformity throughout the website.
 
-## Example Implementation
+
+# Example Implementation
 
 - **Example Default Image Filename**:
+
+\`\`\`
+\${productname}-\${variation_value}-\${viewtype}.jpg
+\`\`\`
+
+For instance, an image filename could be:
+
+\`\`\`
+running-shoes-blue-sideview.jpg
+\`\`\`
+
+- **Example Default Image Alt Text**:
+
+\`\`\`
+\${productname}, \${variation_value}, \${viewtype}
+\`\`\`
+
+For example:
+
+\`\`\`
+Running Shoes, Blue, Side View
+\`\`\`
+
+- **Example Default Image Title**:
+
+\`\`\`
+\${productname}, \${variation_value}
+\`\`\`
+
+For example:
+
+\`\`\`
+Running Shoes, Blue
+\`\`\`
 
 
 ## Benefits of Dynamic Image Naming
