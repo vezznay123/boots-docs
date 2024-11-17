@@ -16,6 +16,36 @@ Dynamically generating image filenames using product system variables is an effe
 
 # Example Implementation
 
+- **Example Default Image Filename**:
+  ```html
+  ${productname}-${variation_value}-${viewtype}.jpg
+  ```
+
+  For instance, an image filename could be:
+  ```html
+  running-shoes-blue-sideview.jpg
+  ```
+
+- **Example Default Image Alt Text**:
+  ```html
+  ${productname}, ${variation_value}, ${viewtype}
+  ```
+
+  For example:
+  ```html
+  Running Shoes, Blue, Side View
+  ```
+
+- **Example Default Image Title**:
+  ```html
+  ${productname}, ${variation_value}
+  ```
+
+  For example:
+  ```html
+  Running Shoes, Blue
+  ```
+
 ## Benefits of Dynamic Image Naming
 
 - **Improved SEO**: Search engines use image filenames and alt text as signals to understand the content of an image. Using descriptive names helps improve image ranking in search results.
