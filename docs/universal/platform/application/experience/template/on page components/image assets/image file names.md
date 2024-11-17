@@ -20,7 +20,7 @@ Dynamically generating image filenames using product system variables is an effe
 - **Example Default Image Filename**:
 
 \`\`\`
-\${productname}-\${variation_value}-\${viewtype}.jpg
+\{productname}-\{variation_value}-\{viewtype}.jpg
 \`\`\`
 
 For instance, an image filename could be:
@@ -32,7 +32,7 @@ running-shoes-blue-sideview.jpg
 - **Example Default Image Alt Text**:
 
 \`\`\`
-\${productname}, \${variation_value}, \${viewtype}
+\{productname}, \{variation_value}, \{viewtype}
 \`\`\`
 
 For example:
@@ -44,7 +44,7 @@ Running Shoes, Blue, Side View
 - **Example Default Image Title**:
 
 \`\`\`
-\${productname}, \${variation_value}
+\{productname}, \S{variation_value}
 \`\`\`
 
 For example:
