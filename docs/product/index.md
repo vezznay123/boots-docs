@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Project SEO Requirements
 ---
 
-# Project SEO Requirements
+# project seo requirements
 
 Welcome to the Project SEO Requirements! Here you’ll find SEO recommendations tailored specifically to meet the needs of individual projects.
 

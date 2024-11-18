@@ -1,5 +1,5 @@
 
-# Content Hub Headings Guidelines
+# content hub headings guidelines
 
 **Priority**: High
 

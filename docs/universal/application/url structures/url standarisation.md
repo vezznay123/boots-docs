@@ -1,5 +1,5 @@
 
-# URL standardisation
+# url standardisation
 
 **Priority**: Medium
 

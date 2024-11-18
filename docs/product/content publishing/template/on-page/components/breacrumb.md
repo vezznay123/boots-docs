@@ -1,5 +1,5 @@
 
-# Breadcrumb Navigation Guidelines
+# breadcrumb navigation guidelines
 
 **Priority**: High
 

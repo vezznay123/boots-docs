@@ -1,5 +1,5 @@
 
-# Image Formats
+# image formats
 
 **Priority**: High
 

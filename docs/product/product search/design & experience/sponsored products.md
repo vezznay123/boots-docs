@@ -1,5 +1,5 @@
 
-### Sponsored Products
+### sponsored products
 
 **Priority:** Medium
 

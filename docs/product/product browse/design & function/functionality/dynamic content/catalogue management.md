@@ -1,5 +1,5 @@
 
-# Managing Empty (0 Product) Product Listing Pages Content
+# managing empty (0 product) product listing pages content
 
 **Priority**: High
 

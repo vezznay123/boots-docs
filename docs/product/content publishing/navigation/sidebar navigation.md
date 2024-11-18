@@ -1,5 +1,5 @@
 
-# Sub-Navigation (Sidebar) Category Navigation
+# sub-navigation (sidebar) category navigation
 
 **Priority**: High
 

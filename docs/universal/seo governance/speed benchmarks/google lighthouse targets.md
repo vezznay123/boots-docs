@@ -1,5 +1,5 @@
 
-# Lighthouse Scoring
+# lighthouse scoring
 
 **Priority**: Medium
 

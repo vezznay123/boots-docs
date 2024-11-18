@@ -1,5 +1,5 @@
 
-# Algorithmically Driven Subcategory Banner
+# algorithmically driven subcategory banner
 
 **Priority**: High
 

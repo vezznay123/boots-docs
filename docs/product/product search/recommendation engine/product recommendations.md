@@ -1,5 +1,5 @@
 
-### SEO Product Recommendations
+### seo product recommendations
 
 #### Related Product Recommendations
 **Priority:** High

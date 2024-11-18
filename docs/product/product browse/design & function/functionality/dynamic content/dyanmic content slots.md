@@ -1,5 +1,5 @@
 
-# Design Pattern: Lister Copy Slot (Dynamic Based on Filter Variables)
+# design pattern: lister copy slot (dynamic based on filter variables)
 
 **Priority**: Medium
 

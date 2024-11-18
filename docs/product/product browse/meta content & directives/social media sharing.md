@@ -1,5 +1,5 @@
 
-# Social Integration: Twitter Cards
+# social integration: twitter cards
 
 **Priority**: Medium
 

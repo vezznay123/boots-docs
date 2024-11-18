@@ -1,5 +1,5 @@
 
-# Page Rendering
+# page rendering
 
 **Priority**: High
 

@@ -1,5 +1,5 @@
 
-# Image Naming Conventions
+# image naming conventions
 
 **Priority**: Medium
 

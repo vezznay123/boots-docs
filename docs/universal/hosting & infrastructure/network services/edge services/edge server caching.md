@@ -1,5 +1,5 @@
 
-# Content Delivery Networks (Application)
+# content delivery networks (application)
 
 **Priority**: High
 

@@ -1,5 +1,5 @@
 
-# Synthetic & RUM Monitoring
+# synthetic & rum monitoring
 
 **Priority**: High
 

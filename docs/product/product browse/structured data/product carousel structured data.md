@@ -1,5 +1,5 @@
 
-# Category Listing Page Structured Data (Carousel)
+# category listing page structured data (carousel)
 
 **Priority**: Medium
 

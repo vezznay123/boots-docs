@@ -1,5 +1,5 @@
 
-# Service Worker Caching
+# service worker caching
 
 **Priority**: High
 

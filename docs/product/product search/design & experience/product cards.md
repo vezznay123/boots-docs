@@ -1,5 +1,5 @@
 
-# Product Listings Display Guidelines
+# product listings display guidelines
 
 **Priority**: Medium
 

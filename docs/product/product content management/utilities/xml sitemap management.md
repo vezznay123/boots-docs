@@ -1,5 +1,5 @@
 
-### XML Sitemap Management
+### xml sitemap management
 
 **Priority:** High
 

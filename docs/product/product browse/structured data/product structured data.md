@@ -1,5 +1,5 @@
 
-# Product Structured Data
+# product structured data
 
 **Priority**: High
 

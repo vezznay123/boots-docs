@@ -1,5 +1,5 @@
 
-### HTML Sitemap Integration
+### html sitemap integration
 
 **Priority:** Medium
 

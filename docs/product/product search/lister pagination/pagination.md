@@ -1,5 +1,5 @@
 
-# Pagination Navigation Management
+# pagination navigation management
 
 **Priority**: Medium
 

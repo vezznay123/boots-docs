@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Universal SEO Requirements
 ---
 
-# Universal SEO Requirements
+# universal seo requirements
 
 Welcome to the Universal SEO Requirements! This section provides comprehensive guidance on SEO strategies that apply universally across projects.
 

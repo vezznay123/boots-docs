@@ -1,5 +1,5 @@
 
-# Resource & load directives implementation
+# resource & load directives implementation
 
 **Priority**: High
 

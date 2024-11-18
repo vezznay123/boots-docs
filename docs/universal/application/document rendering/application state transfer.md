@@ -1,5 +1,5 @@
 
-# State Transfer and Hydration
+# state transfer and hydration
 
 **Priority**: High
 

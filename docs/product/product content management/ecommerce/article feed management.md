@@ -1,5 +1,5 @@
 
-### Article Tag IDs and Content Feed Integration
+### article tag ids and content feed integration
 
 **Priority:** High
 

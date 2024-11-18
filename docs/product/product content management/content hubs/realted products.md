@@ -1,5 +1,5 @@
 
-### Related Product Feeds Integration
+### related product feeds integration
 
 **Priority:** High
 

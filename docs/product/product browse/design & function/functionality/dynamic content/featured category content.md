@@ -1,5 +1,5 @@
 
-# Design Pattern: Featured Content - Article Content Integration
+# design pattern: featured content - article content integration
 
 **Priority**: Medium
 
