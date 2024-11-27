@@ -3,7 +3,7 @@
 import React from 'react';
 import Layout from '@theme/Layout';
 import { FaGlobe } from 'react-icons/fa';
-import { FaProjectDiagram } from 'react-icons/fa';
+import { GiCondorEmblem } from "react-icons/gi";
 
 export default function HomePage() {
   return (
@@ -23,7 +23,7 @@ export default function HomePage() {
 
           {/* Project SEO Recommendations Card */}
           <div style={{ width: '300px', padding: '1.5rem', border: '1px solid #ddd', borderRadius: '8px', textAlign: 'left' }}>
-            <FaProjectDiagram size={40} style={{ color: '#2196F3' }} />
+            <GiCondorEmblem size={40} style={{ color: '#2196F3' }} />
             <h2>Condor Product Recommendations</h2>
             <p>SEO Requirements relating to specific Condor Product workstreams.</p>
             <a href="/docs/product" style={{ color: '#2196F3', textDecoration: 'none' }}>Learn More</a>
