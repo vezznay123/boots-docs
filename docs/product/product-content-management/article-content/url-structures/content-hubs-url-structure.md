@@ -1,4 +1,4 @@
-# url structure override for product listing page
+# url structure override for content hubs
 
     **Priority:** High
 
@@ -9,11 +9,10 @@
 
     1. **Default URL Structure Logic:**
        - Implement application-side logic to form default URL paths.
-       - Allow fields to override default behavior for product slugs only.
 
     2. **Override Field:**
-       - Provide a dedicated field within the product editor for custom URL slugs.
-       - Accept valid URL characters and automatically format input for consistency.
+       - Provide a field for inputting custom URL slugs.
+       - Accept valid URL characters and format input for consistency.
 
     3. **Warning Message:**
        - Display a warning when overriding the default URL slug.

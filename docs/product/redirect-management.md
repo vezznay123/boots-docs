@@ -1,4 +1,4 @@
-# Redirect Management
+# redirect management
 
     **Priority:** High
 

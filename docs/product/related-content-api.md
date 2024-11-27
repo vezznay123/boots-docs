@@ -1,4 +1,4 @@
-# Related Content API: Article Tag IDs
+# related content api: article tag ids
 
     **Priority:** Medium
 

@@ -1,4 +1,4 @@
-# Product Detail Page Headings
+# product detail page headings
 
     **Priority:** High
 

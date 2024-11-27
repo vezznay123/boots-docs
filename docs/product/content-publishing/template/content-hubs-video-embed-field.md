@@ -1,9 +1,9 @@
-# video embed field for product listing page
+# video embed field for content hubs
 
     **Priority:** Medium
 
     **Overview:**
-    Video embeds enhance product pages by providing dynamic and engaging content. This feature allows content editors to easily embed videos from popular platforms or self-hosted sources.
+    Video embeds enhance content pages by providing dynamic and engaging content. This feature allows content editors to easily embed videos from popular platforms or self-hosted sources.
 
     **Implementation Requirements:**
 
@@ -26,9 +26,9 @@
 
     **Benefits:**
 
-    - Enhances product pages with dynamic content.
+    - Enhances content pages with dynamic content.
     - Improves user engagement with video content.
     - Provides flexibility for content editors to embed videos.
 
     **Conclusion:**
-    Video embeds are essential for enhancing product pages, providing dynamic and engaging content that improves user experience.
+    Video embeds are essential for enhancing content pages, providing dynamic and engaging content that improves user experience.

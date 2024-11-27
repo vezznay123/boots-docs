@@ -1,4 +1,4 @@
-# Related Articles for Product Listing Page
+# related articles for product listing page
 
     **Priority:** Medium
 

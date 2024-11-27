@@ -1,4 +1,4 @@
-# Related Products (Category Id) for Product Listing Page
+# related products (category id) for product listing page
 
     **Priority:** Medium
 

@@ -1,4 +1,4 @@
-# Product Category Pages: Meta Descriptions Fields (Overrides)
+# product category pages: meta descriptions fields (overrides)
 
     **Priority:** Medium
 

@@ -1,4 +1,4 @@
-# Page Headings (Product Name) Override for Product Listing Page
+# page headings (product name) override for product listing page
 
     **Priority:** High
 

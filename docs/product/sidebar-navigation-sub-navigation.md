@@ -1,4 +1,4 @@
-# Sidebar Navigation: Sub-Navigation
+# sidebar navigation: sub-navigation
 
     **Priority:** Medium
 

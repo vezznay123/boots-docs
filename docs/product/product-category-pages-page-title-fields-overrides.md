@@ -1,4 +1,4 @@
-# Product Category Pages: Page Title Fields (Overrides)
+# product category pages: page title fields (overrides)
 
     **Priority:** Medium
 

@@ -1,4 +1,4 @@
-# Product Category Pages: Rel="Canonical" Fields (Overrides)
+# product category pages: rel="canonical" fields (overrides)
 
     **Priority:** Medium
 

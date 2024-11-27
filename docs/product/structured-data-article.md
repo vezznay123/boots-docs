@@ -1,4 +1,4 @@
-# Structured Data: Article
+# structured data: article
 
     **Priority:** High
 

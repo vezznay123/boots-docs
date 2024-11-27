@@ -1,4 +1,4 @@
-# Product Category Pages: Enable/Disable Categories
+# product category pages: enable/disable categories
 
     **Priority:** Medium
 

@@ -1,4 +1,4 @@
-# Page Title Fields (Overrides) for Product Listing Page
+# page title fields (overrides) for product listing page
 
     **Priority:** High
 

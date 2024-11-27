@@ -1,4 +1,4 @@
-# Author Profiles (EEAT)
+# author profiles (eeat)
 
     **Priority:** High
 
