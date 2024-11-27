@@ -7,7 +7,7 @@ import { GiCondorEmblem } from "react-icons/gi";
 
 export default function HomePage() {
   return (
-    <Layout title="Home" description="Your comprehensive guide to mastering SEO strategies">
+    <Layout title="Home" description="SEO Recommendations & Requirements">
       <div style={{ textAlign: 'center', padding: '2rem' }}>
         <h1>Welcome to Your SEO Documentation</h1>
         <p>Your comprehensive guide to mastering SEO strategies.</p>
