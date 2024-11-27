@@ -1,4 +1,4 @@
-# content category page: sidebar navigation
+# sidebar navigation
 
     **Priority:** Medium
 

@@ -1,34 +1,50 @@
-# video embed field for content hubs
+# displaying video content
 
-    **Priority:** Medium
+**Priority:** Medium  
 
-    **Overview:**
-    Video embeds enhance content pages by providing dynamic and engaging content. This feature allows content editors to easily embed videos from popular platforms or self-hosted sources.
+**Overview:**  
+Integrating videos into article pages enhances user engagement by providing dynamic and interactive content. Videos can significantly improve time on page, reduce bounce rates, and drive SEO performance when properly optimised.
 
-    **Implementation Requirements:**
+**Implementation Requirements:**
 
-    1. **Supported Platforms:**
-       - Allow embedding from popular video hosting platforms or self-hosted sources.
+1. **Responsive Video Display:**
+   - Ensure videos are responsive and optimised for all device sizes, including desktop, tablet, and mobile.
+   - Implement a fluid aspect ratio (e.g., 16:9) to maintain consistency across screen sizes.
 
-    2. **URL Input:**
-       - Provide a field for entering video URLs, asset IDs, or uploads.
+2. **Lazy Loading:**
+   - Enable lazy loading for videos to improve page load performance and Core Web Vitals scores.
 
-    3. **Content Editor Experience:**
-       - Offer a preview of the embedded video within the CMS editor.
-       - Automatically generate or allow custom video thumbnails.
-       - Provide an option to include video transcripts for accessibility.
+3. **Structured Data Integration:**
+   - Add schema.org structured data for videos to enhance search engine discoverability.
+   - Include fields for video titles, descriptions, thumbnails, duration, upload dates, and publishers.
 
-    **Best Practices:**
+4. **Thumbnail Optimisation:**
+   - Display engaging video thumbnails optimised for fast loading and high-quality visuals.
 
-    - Ensure videos are relevant and add value.
-    - Optimize video size and quality for performance.
-    - Regularly review and update video content.
+5. **User Interaction:**
+   - Provide user-friendly controls such as play/pause, fullscreen, volume adjustment, and playback speed.
+   - Disable autoplay with sound to prevent negative user experiences.
+   - Include a fallback message or image for users whose devices or browsers do not support embedded videos.
 
-    **Benefits:**
+6. **Accessibility:**
+   - Ensure videos have closed captions or subtitles.
+   - Include a transcript for each video on the article page to improve accessibility and indexing.
 
-    - Enhances content pages with dynamic content.
-    - Improves user engagement with video content.
-    - Provides flexibility for content editors to embed videos.
+7. **SEO and Engagement:**
+   - Optimise video titles, descriptions, and thumbnails to encourage clicks and shares.
+   - Ensure videos align contextually with article content and keywords.
 
-    **Conclusion:**
-    Video embeds are essential for enhancing content pages, providing dynamic and engaging content that improves user experience.
+**Best Practices:**
+
+- Avoid embedding excessively large video files that impact load times.
+- Regularly audit embedded videos to ensure they remain relevant to the content.
+- Provide multiple video resolutions to accommodate varying bandwidths.
+
+**Benefits:**
+
+- Enhances user engagement and reduces bounce rates.
+- Improves SEO performance through structured data and accessibility compliance.
+- Increases dwell time and social shares by integrating compelling video content.
+
+**Conclusion:**  
+Proper integration of videos into article pages ensures a seamless, engaging user experience while aligning with best practices for SEO and accessibility.

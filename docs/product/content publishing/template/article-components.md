@@ -1,4 +1,4 @@
-# article components
+# article information
 
     **Priority:** Medium
 

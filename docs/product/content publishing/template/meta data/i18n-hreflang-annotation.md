@@ -1,6 +1,6 @@
-# programmatic hreflang annotation generation
+# hreflang annoations
 
-    **Priority:** High
+    **Priority:** Medium
 
     **Overview:**
     Hreflang annotations are crucial for indicating the regional variants of content, improving SEO and user experience by directing users to the appropriate language version of a page. This feature involves programmatically generating hreflang tags within the `<head>` of the document.

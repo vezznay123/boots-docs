@@ -1,35 +1,47 @@
-# hero image definition for content hubs
+# hero images
 
-    **Priority:** High
+**Priority:** Medium
 
-    **Overview:**
-    Hero images are crucial for creating a visually appealing and engaging user experience on content pages. They serve as the first visual impression and can significantly impact user engagement and conversion rates. Additionally, hero images play a role in social media sharing, such as Twitter Cards, enhancing the website's visibility and attractiveness.
+**Overview:**  
+Hero images are a vital component of article templates, serving as the first visual impression for readers. They enhance user engagement, improve SEO, and are essential for platforms like Google Discover. Adhering to specific guidelines for hero images ensures your content meets discoverability standards while creating a visually compelling experience.
 
-    **Implementation Requirements:**
+**Implementation Requirements:**
 
-    1. **Image Selection:**
-       - Provide an interface for content editors to select or upload high-resolution images.
-       - Ensure the image library supports various formats (e.g., JPEG, PNG) and resolutions.
+1. **Template Integration:**
+   - Incorporate hero image functionality directly into the article template.
+   - Ensure hero images are prominently displayed at the top of each article to establish a strong visual identity.
 
-    2. **Cropping and Resizing:**
-       - Implement tools for cropping and resizing images to fit different aspect ratios and dimensions.
-       - Ensure compatibility with various devices and layouts, such as desktop, tablet, and mobile.
+2. **Image Dimensions:**
+   - Use high-resolution images that are **at least 1200 pixels wide** to meet Google Discover requirements.
+   - Ensure images are visually engaging and clear, avoiding pixelation or poor composition.
 
-    3. **Alt Text:**
-       - Include a field for inputting descriptive alt text for each hero image.
-       - Ensure alt text is concise and relevant to improve accessibility and SEO.
+3. **Metadata and Settings:**
+   - Enable the `max-image-preview:large` setting to allow large hero images to be displayed on platforms like Google Discover.
 
-    **Best Practices:**
+4. **Image Quality and Relevance:**
+   - Select high-quality, compelling images that are relevant to the article content.
+   - Avoid using site logos or generic visuals as hero images.
 
-    - Use high-quality images that are relevant to the content.
-    - Maintain consistency in image style and dimensions across the website.
-    - Regularly update hero images to reflect current promotions or trends.
+5. **Content Alignment:**
+   - Pair hero images with titles and article content that accurately reflect the essence of the story.
+   - Avoid clickbait tactics, exaggerated visuals, or misleading image selections.
 
-    **Benefits:**
+6. **Cropping and Resizing:**
+   - Include tools for cropping and resizing images to fit the template’s predefined aspect ratios and dimensions.
+   - Ensure responsive behaviour so images are optimised for desktop, tablet, and mobile layouts.
 
-    - Enhances visual appeal and user engagement on content pages.
-    - Improves SEO through optimized alt text and image metadata.
-    - Increases social media visibility with properly defined Twitter Cards and other social media tags.
+**Best Practices:**
 
-    **Conclusion:**
-    Hero images are a vital component of content pages, enhancing both user experience and SEO. Proper implementation ensures that images are visually appealing, accessible, and optimized for social media sharing.
+- Use unique, high-quality visuals that add value to the story and align with the article theme.
+- Maintain consistency in hero image style and dimensions across all articles.
+- Regularly update hero images for evergreen articles to keep them fresh and relevant.
+
+**Benefits:**
+- Enhances visual appeal and user engagement on article pages.
+- Increases visibility on platforms like Google Discover with optimised, high-resolution images.
+- Aligns with Google's transparent guidelines for content discoverability and credibility.
+- Strengthens brand identity through consistent and visually compelling hero image use.
+
+**Conclusion:**  
+Hero images are essential for article templates, driving user engagement, SEO, and discoverability on platforms like Google Discover. By adhering to these guidelines, you ensure that hero images not only captivate readers but also meet the technical standards for maximum visibility.
+
