@@ -1,5 +1,5 @@
 
-# meta descriptions implementation
+# meta descriptions
 
 **Priority**: High
 

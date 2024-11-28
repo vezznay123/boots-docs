@@ -1,7 +1,7 @@
 
 # payload compression
 
-**Priority**: Medium
+**Priority**: Low
 
 ## Overview
 Payload compression is a technique used to reduce the size of files transmitted between the server and the client. By compressing files like HTML, CSS, JavaScript, XML, and images, data transfer becomes faster and more efficient, resulting in better load times and enhanced user experience.

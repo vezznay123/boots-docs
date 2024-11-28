@@ -1,7 +1,7 @@
 
 # image formats
 
-**Priority**: High
+**Priority**: Low
 
 ## Overview
 

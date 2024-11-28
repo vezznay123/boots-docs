@@ -1,7 +1,7 @@
 
-# content delivery networks (application)
+# content delivery networks
 
-**Priority**: High
+**Priority**: Medium
 
 ## Overview
 A Content Delivery Network (CDN) is a distributed network of servers designed to optimise the delivery of web content to users. For headless applications, CDNs can be applied across different parts of the technology stack to enhance performance, scalability, and user experience. The primary advantage of using a CDN in this context is leveraging caching to accelerate response times and reduce server load.

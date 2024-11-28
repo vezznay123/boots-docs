@@ -1,7 +1,7 @@
 
 # image hostname & urls
 
-**Priority**: Medium
+**Priority**: Low
 
 ## Overview
 

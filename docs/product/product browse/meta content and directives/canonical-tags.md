@@ -1,5 +1,5 @@
 
-# meta content: canonicalisation
+# canonicalisation
 
 **Priority**: High
 

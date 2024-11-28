@@ -1,4 +1,4 @@
-# meta robots fields for content hubs
+# meta robots control
 
     **Priority:** Medium
 

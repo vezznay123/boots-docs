@@ -1,33 +1,41 @@
-# page title fields for content hubs
+# Page Title Fields for Content Hubs  
 
-    **Priority:** High
+**Priority:** High  
 
-    **Overview:**
-    Page titles are crucial for SEO and user engagement. This feature provides a dedicated field for content editors to input custom page titles.
+## Overview  
+Page titles are a critical element of SEO and user engagement, serving as the first impression in search engine results and browser tabs. This feature provides a dedicated and intuitive field within the CMS for content editors to input and manage custom page titles, ensuring optimal performance and relevance for article pages in the Content Hubs.  
 
-    **Implementation Requirements:**
+## Implementation Requirements  
 
-    1. **Page Title Field:**
-       - Provide a field within the content editor for entering page titles.
+### 1. **Page Title Field in CMS:**  
+- Provide a dedicated field within the content editor interface to input custom page titles for article pages.  
+- Display the current character count dynamically as the editor types to ensure compliance with SEO guidelines.  
 
-    2. **UI Indication:**
-       - Clearly indicate when a title is set or not.
+### 2. **UI Indication and Validation:**  
+- Clearly indicate when a page title has been set or is missing through visual cues (e.g., checkmarks or warning icons).  
+- Implement character count limits (e.g., 60-70 characters) with a warning if the limit is exceeded.  
+- Validate that the title field is not left blank before publishing.  
 
-    **SEO Considerations:**
+### 3. **Default Title Logic:**  
+- Automatically generate a default page title using a predefined formula when the field is left blank.  
+  - Formula Example: `{Article Name} | {Content Hub Name} | Boots {Locale}`  
+  - Example Output: "Nutrition Tips | Health Hub | Boots UK"  
+- Allow editors to override the default title with custom inputs for greater flexibility.  
 
-    - Enforce a reasonable character limit for page titles (e.g., 60-70 characters).
+## SEO Considerations  
+- Enforce a character limit of 60-70 characters to prevent truncation in search engine results.  
+- Encourage the use of primary keywords near the beginning of the title for optimal relevance.  
+- Avoid duplication of titles across different pages to minimise SEO cannibalisation.  
 
-    **Best Practices:**
+## Best Practices  
+- Use strategic keywords in page titles to boost search rankings.  
+- Ensure titles are descriptive, engaging, and directly relevant to the page content.  
+- Regularly audit and update page titles to reflect evolving SEO trends and user behaviour.  
 
-    - Use keywords strategically in page titles.
-    - Ensure titles are descriptive and relevant.
-    - Regularly review and update titles for SEO.
+## Benefits  
+- Enhances SEO by optimising page titles for search engines.  
+- Increases user engagement with relevant, tailored, and compelling titles.  
+- Provides content editors with the flexibility to customise or rely on automated title generation.  
 
-    **Benefits:**
-
-    - Improves SEO with relevant and descriptive titles.
-    - Increases user engagement with tailored titles.
-    - Provides flexibility for content editors to customize titles.
-
-    **Conclusion:**
-    Custom page titles are vital for enhancing SEO and user engagement, offering control over how pages are presented.
+## Conclusion  
+A robust CMS title tag population feature is vital for improving SEO and user engagement. By providing intuitive tools for managing page titles and adhering to SEO best practices, this feature ensures that article pages within the Content Hubs maximise their visibility and relevance.

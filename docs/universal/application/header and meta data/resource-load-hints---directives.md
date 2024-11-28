@@ -1,7 +1,7 @@
 
-# resource & load directives implementation
+# resource & load directives
 
-**Priority**: High
+**Priority**: Low
 
 ## Overview
 

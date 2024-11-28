@@ -1,7 +1,7 @@
 
 # cache validation
 
-**Priority**: High
+**Priority**: Low
 
 ## Overview
 Cache validation ensures that cached resources are kept up to date, improving efficiency by preventing unnecessary data transfers. By using validation mechanisms, servers can verify whether cached content is still valid, which reduces bandwidth usage and enhances performance.

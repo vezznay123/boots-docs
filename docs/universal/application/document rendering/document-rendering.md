@@ -1,7 +1,7 @@
 
 # page rendering
 
-**Priority**: High
+**Priority**: Medium
 
 ## Overview
 

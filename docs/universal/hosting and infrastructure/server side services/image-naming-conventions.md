@@ -1,7 +1,7 @@
 
-# system gerated image filenames
+# image filenames
 
-**Priority**: Medium
+**Priority**: Low
 
 ## Overview
 

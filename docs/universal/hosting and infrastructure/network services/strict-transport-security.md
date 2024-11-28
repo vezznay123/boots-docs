@@ -1,7 +1,7 @@
 
 # strict transport security
 
-**Priority**: High
+**Priority**: Low
 
 ## Overview
 Strict Transport Security (HSTS) is a security feature that instructs browsers to only interact with the server using HTTPS. This prevents users from accidentally accessing the server via an insecure HTTP connection, further securing the data transfer process and providing additional protection against man-in-the-middle attacks.

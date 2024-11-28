@@ -1,7 +1,7 @@
 
-# category listing page structured data (carousel)
+# product data carousels
 
-**Priority**: Medium
+**Priority**: Low
 
 ## Overview
 

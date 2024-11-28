@@ -1,7 +1,7 @@
 
 # html sitemap
 
-**Priority**: High
+**Priority**: low
 
 ## Overview
 

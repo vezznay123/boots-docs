@@ -1,7 +1,7 @@
 
 # server-side caching
 
-**Priority**: High
+**Priority**: Medium
 
 ## Overview
 Server-side caching is crucial for improving performance and scalability in a React application that serves both static and dynamic content. Proper caching strategies help reduce server load, accelerate content delivery, and optimise the user experience. Depending on the type of content—static or dynamic—different caching mechanisms need to be applied.

@@ -1,7 +1,7 @@
 
-# algorithmically driven subcategory banner
+# dynamic subcategory banner
 
-**Priority**: High
+**Priority**: Low
 
 ## Overview
 

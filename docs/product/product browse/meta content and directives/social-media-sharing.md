@@ -1,7 +1,7 @@
 
-# social integration: twitter cards
+# social integration
 
-**Priority**: Medium
+**Priority**: Low
 
 ## Overview
 

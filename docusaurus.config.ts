@@ -17,7 +17,6 @@ const config: Config = {
     locales: ['en'],
   },
   
-  // Add themes array for local search
   themes: [
     [
       "@easyops-cn/docusaurus-search-local",
@@ -25,7 +24,7 @@ const config: Config = {
         hashed: true,
         language: ["en"],
         highlightSearchTermsOnTargetPage: true,
-        explicitSenparchResultPath: true,
+        explicitSearchResultPath: true,
       },
     ],
   ],

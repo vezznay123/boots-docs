@@ -1,4 +1,4 @@
-# internal linking: related products
+# articles pages - related products
 
     **Priority:** Medium
 

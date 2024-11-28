@@ -1,5 +1,5 @@
 
-# canonical tags implementation
+# canonical tags
 
 **Priority**: High
 

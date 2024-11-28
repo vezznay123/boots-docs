@@ -1,6 +1,6 @@
-# article page: related content
+# articles pages - related articles
 
-    **Priority:** High
+    **Priority:** Medium
 
     ## Overview
     The Related Content feature on the Article Page is designed to enhance user engagement by providing additional relevant articles. This is achieved through an API endpoint that returns related articles based on a specified article ID, allowing for dynamic content integration.

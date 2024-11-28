@@ -1,7 +1,7 @@
 
-# breadcrumb navigation implementation
+# breadcrumb navigation
 
-**Priority**: High
+**Priority**: Medium
 
 ## Overview
 

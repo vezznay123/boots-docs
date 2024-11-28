@@ -1,7 +1,7 @@
 
-# hreflang tags implementation
+# hreflang annotations
 
-**Priority**: High
+**Priority**: Low
 
 ## Overview
 

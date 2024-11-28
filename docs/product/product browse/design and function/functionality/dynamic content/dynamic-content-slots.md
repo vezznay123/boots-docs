@@ -1,5 +1,5 @@
 
-# design pattern: lister copy slot (dynamic based on filter variables)
+# dynamic content slots
 
 **Priority**: Medium
 

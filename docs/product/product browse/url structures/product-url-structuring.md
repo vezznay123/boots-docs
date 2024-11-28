@@ -1,5 +1,5 @@
 
-# url structuring for product pages
+# product urls
 
 **Priority**: High
 

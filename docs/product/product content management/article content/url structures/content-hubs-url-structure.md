@@ -1,4 +1,4 @@
-# url structure override for content hubs
+# article content urls
 
     **Priority:** High
 

@@ -1,5 +1,5 @@
 
-# document heading structures
+# heading structures
 
 **Priority**: High
 

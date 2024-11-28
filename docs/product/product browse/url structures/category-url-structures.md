@@ -1,5 +1,5 @@
 
-# url structuring for category listing pages
+# category urls
 
 **Priority**: High
 

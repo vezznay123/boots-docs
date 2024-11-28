@@ -1,7 +1,7 @@
 
 # server-side tracking
 
-**Priority**: High
+**Priority**: Low
 
 ## Overview
 Server-side tracking involves setting up a server-side Google Tag Manager (GTM) container to handle tracking events and tags. Instead of directly sending tracking data from the client side, the data is sent to a server-side container, which then processes and forwards it to analytics or marketing platforms. This approach helps improve data security and reduces the impact of tracking scripts on client-side performance.

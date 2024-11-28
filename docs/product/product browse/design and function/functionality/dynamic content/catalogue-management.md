@@ -1,7 +1,7 @@
 
-# managing empty (0 product) product listing pages content
+# dyanamic catalouge  
 
-**Priority**: High
+**Priority**: Medium
 
 ## Overview
 

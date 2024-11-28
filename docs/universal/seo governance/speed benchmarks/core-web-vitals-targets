@@ -1,7 +1,7 @@
 
 # Core Web Vitals & Performance Scores
 
-**Priority**: High
+**Priority**: Medium
 
 ## Overview
 Core Web Vitals are a set of user-centric performance metrics defined by Google to measure key aspects of user experience, including load performance, interactivity, and visual stability. Meeting Google's benchmarks for these metrics is critical for ensuring a good user experience and improving a page's ranking in search results.

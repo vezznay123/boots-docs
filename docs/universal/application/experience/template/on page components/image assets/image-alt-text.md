@@ -1,7 +1,7 @@
 
-# image alt text attribute implementation
+# image alt text attribute 
 
-**Priority**: High
+**Priority**: Medium
 
 ## Overview
 

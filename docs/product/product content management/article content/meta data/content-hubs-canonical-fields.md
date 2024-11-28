@@ -1,4 +1,4 @@
-# rel="canonical" fields for content hubs
+# canonical definition
 
     **Priority:** Medium
 

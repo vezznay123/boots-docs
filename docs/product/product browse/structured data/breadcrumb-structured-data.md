@@ -1,7 +1,7 @@
 
 # breadcrumb structured data
 
-**Priority**: Medium
+**Priority**: Low
 
 ## Overview
 

@@ -1,7 +1,7 @@
 
-# open graph protocol implementation
+# open graph protocol
 
-**Priority**: High
+**Priority**: Low
 
 ## Overview
 

@@ -1,7 +1,7 @@
 
 # state transfer and hydration
 
-**Priority**: High
+**Priority**: Medium
 
 ## Overview
 

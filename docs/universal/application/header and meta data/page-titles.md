@@ -1,5 +1,5 @@
 
-# page titles implementation
+# page titles
 
 **Priority**: High
 

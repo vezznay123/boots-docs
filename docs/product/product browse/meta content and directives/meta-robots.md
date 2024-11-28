@@ -1,5 +1,5 @@
 
-# meta content: meta robots implementation
+# meta robots
 
 **Priority**: High
 

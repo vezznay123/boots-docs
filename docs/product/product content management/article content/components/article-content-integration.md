@@ -1,4 +1,4 @@
-# article content integration
+# category pages - related articles
 
     **Priority:** Medium
 

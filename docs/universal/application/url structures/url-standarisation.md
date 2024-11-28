@@ -1,7 +1,7 @@
 
 # url standardisation
 
-**Priority**: Medium
+**Priority**: High
 
 ## Overview
 

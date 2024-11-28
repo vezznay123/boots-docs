@@ -1,5 +1,5 @@
 
-# browser caching headers
+# browser caching
 
 **Priority**: Medium
 
